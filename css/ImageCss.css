@@ -1,0 +1,28 @@
+.Yarnimage {
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(../images/Yarn.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.Blogimage {
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(../images/Blog.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.PBimage {
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(../images/P&B.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.Projectimage {
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(../images/Kits.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.Coursesimage {
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.0)), url(../images/Courses.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.mneg{
+  margin-bottom: -25px
+}
